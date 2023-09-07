@@ -20,7 +20,7 @@ You can see the details of the test scenarios [here](https://docs.google.com/spr
 - Install dependencies npm install cypress
 
 ### Setup Git Repository
-- Clone the repository into a folder https://github.com/sofiaa53/cypress_automationtesting.git
+- Clone the repository into a folder https://github.com/sofiaa53/Cypress-typescript.git
 - Go to Project root directory and install Dependency: npm install
 - All the dependencies from package.json would be installed in node_modules folder.
 
