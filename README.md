@@ -43,7 +43,6 @@ You can see the details of the test scenarios [here](https://docs.google.com/spr
 The project uses reporter from [Mochawesome](https://www.npmjs.com/package/mochawesome)
 - Install mochawesome <br>```$ npm install mochawesome```
 - Tell mocha to use the Mochawesome reporter: <br>```npx cypress run --reporter mochawesome```
-- Report Example ![Alt text](image.png)
 
 ## Author 
 [Sofia Awiliyah](https://www.linkedin.com/in/sofia-awiliyah-365206192/) (QA Engineer, 2023)
